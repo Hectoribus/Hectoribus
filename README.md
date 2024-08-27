@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-- 📚 I’m a robotics student at UC3M
-- 🔎 My current work is on path planning and AVs
+- 📚 I’m a PhD student at NTU
+- 🔎 My current work is on RL, Human-in-the-loop and AVs
 - 📫 How to reach me: chetorsv@gmail.com
